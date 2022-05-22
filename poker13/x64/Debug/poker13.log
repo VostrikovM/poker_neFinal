@@ -1,0 +1,19 @@
+﻿  poker13.cpp
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(31,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(52,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(121,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(130,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(131,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(146,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(157,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(158,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(185,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(186,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(202,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(203,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(204,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(284,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(298,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(301,10): warning C4101: greatCard: неиспользованная локальная переменная
+C:\Users\Алиска\Desktop\cpp\poker13\poker13\poker13.cpp(372,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  poker13.vcxproj -> C:\Users\Алиска\Desktop\cpp\poker13\x64\Debug\poker13.exe
